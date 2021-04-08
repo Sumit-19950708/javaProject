@@ -2,6 +2,11 @@ This is new file
 1st line Dev
 <<<<<<< HEAD
 2nd by Dev
+<<<<<<< HEAD
 =======
 2nd by tester
 >>>>>>> 3ae458bb3bee9d6e917b226bb5fef5fb4392567c
+=======
+3rd line
+
+>>>>>>> b
